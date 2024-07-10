@@ -1,0 +1,24 @@
+a{
+    color: rgb(228, 142, 185);
+    text-decoration: none;
+}
+#id1{
+    background-color: gold;
+}
+#id9{
+    background-color: forestgreen;
+}
+#id8{
+    background-color: cyan;
+}
+#id7{
+    background-color: gray;
+}
+.grp1{
+    background-color: beige;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid goldenrod;
+    margin: 5% 30% 2% 20%;
+    padding: 10px 40px 10px 50px;
+}
