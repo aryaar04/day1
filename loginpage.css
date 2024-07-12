@@ -1,0 +1,11 @@
+a{
+    color: grey;
+    text-decoration: none;
+}
+.qwerty{  
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gainsboro;
+    border: 2px solid green;
+    margin: 5% 40% 2% 40%;
+    text-align: center; 
+}

@@ -18,7 +18,7 @@ a{
     background-color: beige;
     font-size: medium;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    border: 2px solid goldenrod;
+    border: 2px solid rgb(6, 43, 9);
     margin: 5% 30% 2% 20%;
     padding: 10px 40px 10px 50px;
 }
